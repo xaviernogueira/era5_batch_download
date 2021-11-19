@@ -48,3 +48,5 @@ LOOP_MONTHS = False # if True, a file is downloaded for each month (for monthly 
 ### Once inputs are in place you can run the script!
 
 Check active API requests @ https://cds.climate.copernicus.eu/cdsapp#!/yourrequests.
+
+Information tracking the outputs are saved to a logging file 'era5_batch_download.log'
